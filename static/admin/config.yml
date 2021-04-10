@@ -1,6 +1,6 @@
 backend:
   name: github
-      https://github.com/heyitsbecky/blog.git
+  # change repo to your git repository url
   repo: heyitsbecky/blog
 
 media_folder: static/assets
