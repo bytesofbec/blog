@@ -4,6 +4,7 @@ path: /thebeginning
 date: 2020-08-02T16:37:28.707Z
 title: The Beginning
 metaDescription: Starting my blogging journey
+thumbnail: /assets/glenn-carstens-peters-npxXWgQ33ZQ-unsplash.jpg
 ---
 ## Hey there 👋
 
