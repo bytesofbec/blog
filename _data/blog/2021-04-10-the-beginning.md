@@ -18,7 +18,7 @@ Feel free to suggest me any topic ideas 😃
 
 Instagram 👉([@heyitssbecky](https://www.instagram.com/heyitssbecky/))👈
 
-![Rebecca posing like she is blocking the camera from taking her picture](./me-pic.jpg)
+![Rebecca posing like she is blocking the camera from taking her picture](/assets/me-pic.jpg)
 
 Looking forward to sharing more stuff with y'all through this blog. :)
 
