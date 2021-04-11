@@ -3,7 +3,7 @@ template: BlogPost
 path: /empty-your-cup
 date: 2020-09-08T05:05:50.663Z
 title: Empty Your Cup
-thumbnail: /assets/pouringtea.jpg
+thumbnail: /assets/pouringtea-edited.jpg
 ---
 ## Empty Your Cup: A Zen Proverb on Opening Yourself to New Ideas
 
