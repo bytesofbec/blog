@@ -3,7 +3,7 @@ template: BlogPost
 path: /7-apps-I-use-for-productivity
 date: 2020-12-12T05:17:28.131Z
 title: 7 Apps I Use For Productivity
-thumbnail: /assets/main-pic.png
+thumbnail: /assets/main-pic-edited.png
 ---
 I use different apps for productivity and I am assuming that you are also using one or planning to use one which is why you are here or maybe you just want to read the blog. So today I decided to share a bunch of the apps I use for productivity.
 
