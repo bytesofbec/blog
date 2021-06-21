@@ -5,6 +5,8 @@ date: 2021-06-15T14:56:55.002Z
 title: Creating A Blog Using GatsbyJS
 thumbnail: /assets/gatsby.png
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v7QAljPf4UA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Gatsby
 
 ### What is GatsbyJS?
