@@ -1,7 +1,7 @@
 backend:
   name: github
-      https://github.com/heyitsbecky/blog.git
   repo: heyitsbecky/blog
+  branch: main
 
 media_folder: static/assets
 public_folder: /assets
