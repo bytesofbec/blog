@@ -1,6 +1,9 @@
 backend:
   name: github
   repo: heyitsbecky/blog
+  accept_roles:
+    - admin
+    - editor
   branch: main
 
 media_folder: static/assets
