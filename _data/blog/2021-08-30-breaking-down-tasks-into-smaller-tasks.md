@@ -5,7 +5,7 @@ date: 2021-08-30T15:39:28.438Z
 title: Breaking Down Tasks Into Smaller Tasks
 thumbnail: /assets/to-do.jpg
 ---
-image credit: [@thepaintedsquare](https://unsplash.com/@thepaintedsquare)
+image credit: [@thepaintedsquare](https://unsplash.com/@thepaintedsquare) on [Unsplash](https://unsplash.com/)
 
 I like to write down the tasks somewhere. It helps me concentrate on the task, instead of thinking about all of the tasks I need to get done. And breaking down tasks into smaller tasks has helped a lot.
 
@@ -13,7 +13,7 @@ I like to write down the tasks somewhere. It helps me concentrate on the task, i
 
 ![](/assets/andrew-neel-cckf4TsHAuw-unsplash.jpg "Breaking Down Tasks Into Smaller Tasks")
 
-image credit: @andrewtneel[](https://unsplash.com/@thepaintedsquare)
+image credit: [@andrewtneel](https://unsplash.com/@andrewtneel) on [Unsplash](https://unsplash.com/)
 
 \
 It helps us focus on the task more easily than just writing down the main task. \
