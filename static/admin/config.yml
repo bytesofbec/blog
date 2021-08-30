@@ -1,8 +1,10 @@
 backend:
-  name: git-gateway
-  # change repo to your git repository url
-  branch: main
+  name: github
   repo: heyitsbecky/blog
+  accept_roles:
+    - admin
+    - editor
+  branch: main
 
 media_folder: static/assets
 public_folder: /assets
